@@ -1,0 +1,26 @@
+[
+  { "id": "equipment_1", "type": "Equipment Failure", "displayName": { "en": "Mass Spectrometer Breakdown", "zh": "质谱仪故障" }, "effect": "Lose 1 funding" },
+  { "id": "equipment_2", "type": "Equipment Failure", "displayName": { "en": "Computer Server Crash", "zh": "计算机服务器崩溃" }, "effect": "Lose 1 progress" },
+  { "id": "equipment_3", "type": "Equipment Failure", "displayName": { "en": "Laboratory Fire", "zh": "实验室火灾" }, "effect": "Lose 2 funding" },
+  { "id": "equipment_4", "type": "Equipment Failure", "displayName": { "en": "Microscope Malfunction", "zh": "显微镜故障" }, "effect": "Lose 1 collaboration" },
+  { "id": "equipment_5", "type": "Equipment Failure", "displayName": { "en": "Data Storage Corruption", "zh": "数据存储损坏" }, "effect": "Lose 1 progress" },
+  
+  { "id": "grant_1", "type": "Grant Rejected", "displayName": { "en": "NSF Proposal Rejected", "zh": "NSF提案被拒" }, "effect": "Lose 2 funding" },
+  { "id": "grant_2", "type": "Grant Rejected", "displayName": { "en": "Industry Funding Withdrawn", "zh": "产业资助撤回" }, "effect": "Lose 1 funding" },
+  { "id": "grant_3", "type": "Grant Rejected", "displayName": { "en": "International Grant Denied", "zh": "国际资助被拒" }, "effect": "Lose 1 collaboration" },
+  { "id": "grant_4", "type": "Grant Rejected", "displayName": { "en": "Fellowship Application Failed", "zh": "奖学金申请失败" }, "effect": "Lose 1 special" },
+  { "id": "grant_5", "type": "Grant Rejected", "displayName": { "en": "Budget Cuts", "zh": "预算削减" }, "effect": "Lose 1 funding" },
+  
+  { "id": "ethical_1", "type": "Ethical Dilemmas", "displayName": { "en": "IRB Review Delay", "zh": "IRB审查延迟" }, "effect": "Skip next turn" },
+  { "id": "ethical_2", "type": "Ethical Dilemmas", "displayName": { "en": "Data Privacy Concerns", "zh": "数据隐私问题" }, "effect": "Lose 1 progress" },
+  { "id": "ethical_3", "type": "Ethical Dilemmas", "displayName": { "en": "Research Misconduct Allegation", "zh": "研究不当指控" }, "effect": "Lose 1 collaboration" },
+  
+  { "id": "conflict_1", "type": "Team Conflict", "displayName": { "en": "Co-author Dispute", "zh": "共同作者争议" }, "effect": "Lose 1 collaboration" },
+  { "id": "conflict_2", "type": "Team Conflict", "displayName": { "en": "Lab Manager Resignation", "zh": "实验室经理辞职" }, "effect": "Lose 1 progress" },
+  { "id": "conflict_3", "type": "Team Conflict", "displayName": { "en": "Graduate Student Strike", "zh": "研究生罢工" }, "effect": "Lose 1 special" },
+  
+  { "id": "unforeseen_1", "type": "Unforeseen", "displayName": { "en": "Pandemic Lockdown", "zh": "疫情封锁" }, "effect": "Lose 1 progress" },
+  { "id": "unforeseen_2", "type": "Unforeseen", "displayName": { "en": "Economic Recession", "zh": "经济衰退" }, "effect": "Lose 1 funding" },
+  { "id": "unforeseen_3", "type": "Unforeseen", "displayName": { "en": "Natural Disaster", "zh": "自然灾害" }, "effect": "Lose 1 collaboration" },
+  { "id": "unforeseen_4", "type": "Unforeseen", "displayName": { "en": "Policy Change", "zh": "政策变更" }, "effect": "Lose 1 special" }
+]

@@ -1,0 +1,13 @@
+[
+  { "id": "conference_1", "type": "Conference", "displayName": { "en": "International Symposium", "zh": "国际研讨会" }, "effect": "Extra trading opportunity" },
+  { "id": "conference_2", "type": "Conference", "displayName": { "en": "Academic Conference", "zh": "学术会议" }, "effect": "Extra trading opportunity" },
+  { "id": "conference_3", "type": "Conference", "displayName": { "en": "Research Workshop", "zh": "研究工作坊" }, "effect": "Extra trading opportunity" },
+  { "id": "conference_4", "type": "Conference", "displayName": { "en": "Industry Summit", "zh": "产业峰会" }, "effect": "Extra trading opportunity" },
+  { "id": "conference_5", "type": "Conference", "displayName": { "en": "Networking Event", "zh": "网络活动" }, "effect": "Extra trading opportunity" },
+  
+  { "id": "mentor_1", "type": "Mentor", "displayName": { "en": "Distinguished Professor", "zh": "杰出教授" }, "effect": "Gain 1 funding" },
+  { "id": "mentor_2", "type": "Mentor", "displayName": { "en": "Industry Expert", "zh": "行业专家" }, "effect": "Gain 1 collaboration" },
+  { "id": "mentor_3", "type": "Mentor", "displayName": { "en": "Research Director", "zh": "研究主任" }, "effect": "Gain 1 special" },
+  { "id": "mentor_4", "type": "Mentor", "displayName": { "en": "Department Head", "zh": "系主任" }, "effect": "Gain 1 progress" },
+  { "id": "mentor_5", "type": "Mentor", "displayName": { "en": "Senior Researcher", "zh": "高级研究员" }, "effect": "Draw 1 card" }
+]

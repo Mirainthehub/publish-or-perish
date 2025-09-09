@@ -1,0 +1,50 @@
+[
+  {
+    "id": "innovative",
+    "name": "Innovative Researcher",
+    "description": "Always thinking outside the box",
+    "ability": "+1 special token per year"
+  },
+  {
+    "id": "networker",
+    "name": "Natural Networker", 
+    "description": "Excels at building collaborations",
+    "ability": "+1 collaboration token per year"
+  },
+  {
+    "id": "entrepreneur",
+    "name": "Academic Entrepreneur",
+    "description": "Great at securing funding",
+    "ability": "+1 funding token per year"
+  },
+  {
+    "id": "perfectionist",
+    "name": "Perfectionist",
+    "description": "Produces high-quality work",
+    "ability": "+2 points for breakthrough publications"
+  },
+  {
+    "id": "opportunist",
+    "name": "Opportunist",
+    "description": "Takes advantage of every chance",
+    "ability": "Can trade with revealed cards"
+  },
+  {
+    "id": "methodical",
+    "name": "Methodical Researcher",
+    "description": "Steady and reliable progress",
+    "ability": "Immune to setback cards"
+  },
+  {
+    "id": "collaborative",
+    "name": "Team Player",
+    "description": "Works well with others",
+    "ability": "Extra benefits from collaboration cards"
+  },
+  {
+    "id": "ambitious",
+    "name": "Ambitious Scholar",
+    "description": "Always reaching higher",
+    "ability": "Can attempt multiple projects per year"
+  }
+]

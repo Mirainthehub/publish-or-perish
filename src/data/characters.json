@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biologist",
+    "name": "Biologist",
+    "description": "Studies living organisms",
+    "startingTokens": { "funding": 2, "collaboration": 1, "special": 1 }
+  },
+  {
+    "id": "engineer", 
+    "name": "Engineer",
+    "description": "Designs and builds systems",
+    "startingTokens": { "funding": 3, "collaboration": 0, "special": 1 }
+  },
+  {
+    "id": "socialscientist",
+    "name": "Social Scientist", 
+    "description": "Studies human behavior and society",
+    "startingTokens": { "funding": 1, "collaboration": 2, "special": 1 }
+  },
+  {
+    "id": "chemist",
+    "name": "Chemist",
+    "description": "Studies matter and chemical reactions",
+    "startingTokens": { "funding": 2, "collaboration": 1, "special": 1 }
+  },
+  {
+    "id": "computerscientist",
+    "name": "Computer Scientist",
+    "description": "Studies computational systems", 
+    "startingTokens": { "funding": 1, "collaboration": 1, "special": 2 }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  { "id": "research1", "type": "basic", "name": "Market Analysis", "points": 2 },
+  { "id": "research2", "type": "applied", "name": "User Interface Design", "points": 3 },
+  { "id": "research3", "type": "breakthrough", "name": "Machine Learning Algorithm", "points": 5 },
+  { "id": "research4", "type": "basic", "name": "Literature Review", "points": 2 },
+  { "id": "research5", "type": "applied", "name": "Clinical Trial", "points": 4 },
+  { "id": "funding1", "type": "small", "name": "Small Grant", "value": 2 },
+  { "id": "funding2", "type": "large", "name": "Major Grant", "value": 5 },
+  { "id": "funding3", "type": "industry", "name": "Industry Partnership", "value": 4 },
+  { "id": "collab1", "type": "local", "name": "Local University", "value": 1 },
+  { "id": "collab2", "type": "international", "name": "International Consortium", "value": 3 },
+  { "id": "setback1", "type": "equipment", "name": "Equipment Failure", "effect": "Lose 1 funding" },
+  { "id": "setback2", "type": "bureaucracy", "name": "Paperwork Delay", "effect": "Skip next turn" }
+]

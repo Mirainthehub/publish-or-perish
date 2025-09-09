@@ -1,0 +1,30 @@
+[
+  { "id": "small_1", "type": "Small", "displayName": { "en": "Small Grant ($10K)", "zh": "小额资助 (1万)" }, "value": 1 },
+  { "id": "small_2", "type": "Small", "displayName": { "en": "Small Grant ($15K)", "zh": "小额资助 (1.5万)" }, "value": 1 },
+  { "id": "small_3", "type": "Small", "displayName": { "en": "Small Grant ($20K)", "zh": "小额资助 (2万)" }, "value": 1 },
+  { "id": "small_4", "type": "Small", "displayName": { "en": "Small Grant ($25K)", "zh": "小额资助 (2.5万)" }, "value": 1 },
+  { "id": "small_5", "type": "Small", "displayName": { "en": "Small Grant ($30K)", "zh": "小额资助 (3万)" }, "value": 1 },
+  { "id": "small_6", "type": "Small", "displayName": { "en": "Small Grant ($35K)", "zh": "小额资助 (3.5万)" }, "value": 1 },
+  { "id": "small_7", "type": "Small", "displayName": { "en": "Small Grant ($40K)", "zh": "小额资助 (4万)" }, "value": 1 },
+  { "id": "small_8", "type": "Small", "displayName": { "en": "Small Grant ($45K)", "zh": "小额资助 (4.5万)" }, "value": 1 },
+  { "id": "small_9", "type": "Small", "displayName": { "en": "Small Grant ($50K)", "zh": "小额资助 (5万)" }, "value": 1 },
+  { "id": "small_10", "type": "Small", "displayName": { "en": "Small Grant ($60K)", "zh": "小额资助 (6万)" }, "value": 1 },
+  
+  { "id": "large_1", "type": "Large", "displayName": { "en": "Large Grant ($100K)", "zh": "大额资助 (10万)" }, "value": 3 },
+  { "id": "large_2", "type": "Large", "displayName": { "en": "Large Grant ($150K)", "zh": "大额资助 (15万)" }, "value": 3 },
+  { "id": "large_3", "type": "Large", "displayName": { "en": "Large Grant ($200K)", "zh": "大额资助 (20万)" }, "value": 3 },
+  { "id": "large_4", "type": "Large", "displayName": { "en": "Large Grant ($250K)", "zh": "大额资助 (25万)" }, "value": 3 },
+  { "id": "large_5", "type": "Large", "displayName": { "en": "Large Grant ($300K)", "zh": "大额资助 (30万)" }, "value": 3 },
+  { "id": "large_6", "type": "Large", "displayName": { "en": "Large Grant ($400K)", "zh": "大额资助 (40万)" }, "value": 3 },
+  { "id": "large_7", "type": "Large", "displayName": { "en": "Large Grant ($500K)", "zh": "大额资助 (50万)" }, "value": 3 },
+  { "id": "large_8", "type": "Large", "displayName": { "en": "Large Grant ($750K)", "zh": "大额资助 (75万)" }, "value": 3 },
+  
+  { "id": "industry_1", "type": "Industry", "displayName": { "en": "Industry Partnership ($1M)", "zh": "产业合作 (100万)" }, "value": 5 },
+  { "id": "industry_2", "type": "Industry", "displayName": { "en": "Corporate Research ($1.5M)", "zh": "企业研发 (150万)" }, "value": 5 },
+  { "id": "industry_3", "type": "Industry", "displayName": { "en": "Technology License ($2M)", "zh": "技术许可 (200万)" }, "value": 5 },
+  { "id": "industry_4", "type": "Industry", "displayName": { "en": "Joint Venture ($2.5M)", "zh": "合资企业 (250万)" }, "value": 5 },
+  
+  { "id": "crowd_1", "type": "Crowdfunding", "displayName": { "en": "Kickstarter Campaign", "zh": "众筹活动" }, "value": 2 },
+  { "id": "crowd_2", "type": "Crowdfunding", "displayName": { "en": "GoFundMe Research", "zh": "在线募捐" }, "value": 2 },
+  { "id": "crowd_3", "type": "Crowdfunding", "displayName": { "en": "Community Funding", "zh": "社区资助" }, "value": 2 }
+]

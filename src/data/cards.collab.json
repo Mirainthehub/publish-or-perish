@@ -1,0 +1,30 @@
+[
+  { "id": "local_1", "type": "Local", "displayName": { "en": "Local University Partnership", "zh": "本地大学合作" }, "value": 2 },
+  { "id": "local_2", "type": "Local", "displayName": { "en": "Regional Research Network", "zh": "区域研究网络" }, "value": 2 },
+  { "id": "local_3", "type": "Local", "displayName": { "en": "City Lab Collaboration", "zh": "城市实验室合作" }, "value": 2 },
+  { "id": "local_4", "type": "Local", "displayName": { "en": "Local Industry Partnership", "zh": "本地产业合作" }, "value": 2 },
+  { "id": "local_5", "type": "Local", "displayName": { "en": "Community Research Project", "zh": "社区研究项目" }, "value": 2 },
+  { "id": "local_6", "type": "Local", "displayName": { "en": "Municipal Grant Collaboration", "zh": "市政资助合作" }, "value": 2 },
+  { "id": "local_7", "type": "Local", "displayName": { "en": "Regional Hospital Partnership", "zh": "区域医院合作" }, "value": 2 },
+  { "id": "local_8", "type": "Local", "displayName": { "en": "Local NGO Collaboration", "zh": "本地NGO合作" }, "value": 2 },
+  { "id": "local_9", "type": "Local", "displayName": { "en": "Provincial Research Initiative", "zh": "省级研究倡议" }, "value": 2 },
+  { "id": "local_10", "type": "Local", "displayName": { "en": "Local Startup Partnership", "zh": "本地创业公司合作" }, "value": 2 },
+  
+  { "id": "intl_1", "type": "International", "displayName": { "en": "EU Research Framework", "zh": "欧盟研究框架" }, "value": 4 },
+  { "id": "intl_2", "type": "International", "displayName": { "en": "US-China Collaboration", "zh": "中美合作" }, "value": 4 },
+  { "id": "intl_3", "type": "International", "displayName": { "en": "Global Climate Initiative", "zh": "全球气候倡议" }, "value": 4 },
+  { "id": "intl_4", "type": "International", "displayName": { "en": "International Space Station", "zh": "国际空间站" }, "value": 4 },
+  { "id": "intl_5", "type": "International", "displayName": { "en": "WHO Health Program", "zh": "世卫组织健康项目" }, "value": 4 },
+  { "id": "intl_6", "type": "International", "displayName": { "en": "UN Sustainable Development", "zh": "联合国可持续发展" }, "value": 4 },
+  { "id": "intl_7", "type": "International", "displayName": { "en": "Asian Research Network", "zh": "亚洲研究网络" }, "value": 4 },
+  { "id": "intl_8", "type": "International", "displayName": { "en": "Global Ocean Research", "zh": "全球海洋研究" }, "value": 4 },
+  
+  { "id": "interdisc_1", "type": "Interdisciplinary", "displayName": { "en": "Bio-Engineering Consortium", "zh": "生物工程联盟" }, "value": 3 },
+  { "id": "interdisc_2", "type": "Interdisciplinary", "displayName": { "en": "Digital Humanities Hub", "zh": "数字人文中心" }, "value": 3 },
+  { "id": "interdisc_3", "type": "Interdisciplinary", "displayName": { "en": "Science-Policy Interface", "zh": "科学政策接口" }, "value": 3 },
+  { "id": "interdisc_4", "type": "Interdisciplinary", "displayName": { "en": "Art-Science Collaboration", "zh": "艺术科学合作" }, "value": 3 },
+  { "id": "interdisc_5", "type": "Interdisciplinary", "displayName": { "en": "Tech-Ethics Partnership", "zh": "技术伦理合作" }, "value": 3 },
+  
+  { "id": "institutional_1", "type": "Institutional", "displayName": { "en": "National Science Foundation", "zh": "国家科学基金会" }, "value": 6 },
+  { "id": "institutional_2", "type": "Institutional", "displayName": { "en": "Institute for Advanced Study", "zh": "高级研究院" }, "value": 6 }
+]

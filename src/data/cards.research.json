@@ -1,0 +1,35 @@
+[
+  { "id": "basic_1", "type": "Basic", "displayName": { "en": "Cell Division Study", "zh": "细胞分裂研究" }, "points": 1 },
+  { "id": "basic_2", "type": "Basic", "displayName": { "en": "Survey Research", "zh": "调查研究" }, "points": 1 },
+  { "id": "basic_3", "type": "Basic", "displayName": { "en": "Literature Review", "zh": "文献综述" }, "points": 1 },
+  { "id": "basic_4", "type": "Basic", "displayName": { "en": "Data Collection", "zh": "数据收集" }, "points": 1 },
+  { "id": "basic_5", "type": "Basic", "displayName": { "en": "Statistical Analysis", "zh": "统计分析" }, "points": 1 },
+  { "id": "basic_6", "type": "Basic", "displayName": { "en": "Behavioral Study", "zh": "行为研究" }, "points": 1 },
+  { "id": "basic_7", "type": "Basic", "displayName": { "en": "Chemical Analysis", "zh": "化学分析" }, "points": 1 },
+  { "id": "basic_8", "type": "Basic", "displayName": { "en": "Physical Testing", "zh": "物理测试" }, "points": 1 },
+  { "id": "basic_9", "type": "Basic", "displayName": { "en": "Algorithm Design", "zh": "算法设计" }, "points": 1 },
+  { "id": "basic_10", "type": "Basic", "displayName": { "en": "Prototype Development", "zh": "原型开发" }, "points": 1 },
+  
+  { "id": "applied_1", "type": "Applied", "displayName": { "en": "Medical Application", "zh": "医学应用" }, "points": 3 },
+  { "id": "applied_2", "type": "Applied", "displayName": { "en": "Social Policy Research", "zh": "社会政策研究" }, "points": 3 },
+  { "id": "applied_3", "type": "Applied", "displayName": { "en": "Educational Technology", "zh": "教育技术" }, "points": 3 },
+  { "id": "applied_4", "type": "Applied", "displayName": { "en": "Environmental Solution", "zh": "环境解决方案" }, "points": 3 },
+  { "id": "applied_5", "type": "Applied", "displayName": { "en": "Industrial Process", "zh": "工业流程" }, "points": 3 },
+  { "id": "applied_6", "type": "Applied", "displayName": { "en": "Software Application", "zh": "软件应用" }, "points": 3 },
+  { "id": "applied_7", "type": "Applied", "displayName": { "en": "Engineering Solution", "zh": "工程解决方案" }, "points": 3 },
+  { "id": "applied_8", "type": "Applied", "displayName": { "en": "Clinical Trial", "zh": "临床试验" }, "points": 3 },
+  { "id": "applied_9", "type": "Applied", "displayName": { "en": "Product Development", "zh": "产品开发" }, "points": 3 },
+  { "id": "applied_10", "type": "Applied", "displayName": { "en": "Technology Transfer", "zh": "技术转移" }, "points": 3 },
+  
+  { "id": "breakthrough_1", "type": "Breakthrough", "displayName": { "en": "Gene Therapy", "zh": "基因治疗" }, "points": 5 },
+  { "id": "breakthrough_2", "type": "Breakthrough", "displayName": { "en": "Quantum Computing", "zh": "量子计算" }, "points": 5 },
+  { "id": "breakthrough_3", "type": "Breakthrough", "displayName": { "en": "Fusion Energy", "zh": "聚变能源" }, "points": 5 },
+  { "id": "breakthrough_4", "type": "Breakthrough", "displayName": { "en": "AI Breakthrough", "zh": "AI突破" }, "points": 5 },
+  { "id": "breakthrough_5", "type": "Breakthrough", "displayName": { "en": "Cancer Cure", "zh": "癌症治疗" }, "points": 5 },
+  
+  { "id": "interdisciplinary_1", "type": "Interdisciplinary", "displayName": { "en": "Bioinformatics", "zh": "生物信息学" }, "points": 4 },
+  { "id": "interdisciplinary_2", "type": "Interdisciplinary", "displayName": { "en": "Computational Social Science", "zh": "计算社会科学" }, "points": 4 },
+  { "id": "interdisciplinary_3", "type": "Interdisciplinary", "displayName": { "en": "Digital Humanities", "zh": "数字人文" }, "points": 4 },
+  { "id": "interdisciplinary_4", "type": "Interdisciplinary", "displayName": { "en": "Bioengineering", "zh": "生物工程" }, "points": 4 },
+  { "id": "interdisciplinary_5", "type": "Interdisciplinary", "displayName": { "en": "Environmental Economics", "zh": "环境经济学" }, "points": 4 }
+]

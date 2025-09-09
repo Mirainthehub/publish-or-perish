@@ -7,7 +7,7 @@
 **A web-based academic board game simulation**  
 **一个基于网页的学术棋盘游戏模拟**
 
-[![Live Demo](https://img.shields.io/badge/🚀-Live_Demo-green?style=flat-square)](https://your-username.github.io/publish-or-perish)
+[![Live Demo](https://img.shields.io/badge/🚀-Live_Demo-green?style=flat-square)](https://mirainthehub.github.io/publish-or-perish)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/)
@@ -41,11 +41,11 @@
 
 ### 🚀 Quick Start
 
-1. **Play Online**: Visit the [live demo](https://your-username.github.io/publish-or-perish)
+1. **Play Online**: Visit the [live demo](https://mirainthehub.github.io/publish-or-perish)
 2. **Test Mode**: Add `?test` to the URL for UX testing: `[demo-url]?test`
 3. **Local Development**:
    ```bash
-   git clone https://github.com/your-username/publish-or-perish.git
+   git clone https://github.com/mirainthehub/publish-or-perish.git
    cd publish-or-perish
    npm install
    npm run dev
@@ -154,11 +154,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### 🚀 快速开始
 
-1. **在线游玩**：访问[在线演示](https://your-username.github.io/publish-or-perish)
+1. **在线游玩**：访问[在线演示](https://mirainthehub.github.io/publish-or-perish)
 2. **测试模式**：在URL后添加`?test`进行UX测试：`[演示网址]?test`
 3. **本地开发**：
    ```bash
-   git clone https://github.com/your-username/publish-or-perish.git
+   git clone https://github.com/mirainthehub/publish-or-perish.git
    cd publish-or-perish
    npm install
    npm run dev

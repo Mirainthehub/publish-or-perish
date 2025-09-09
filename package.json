@@ -6,9 +6,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/publish-or-perish.git"
+    "url": "https://github.com/mirainthehub/publish-or-perish.git"
   },
-  "homepage": "https://your-username.github.io/publish-or-perish",
+  "homepage": "https://mirainthehub.github.io/publish-or-perish",
   "keywords": [
     "board-game",
     "academic",

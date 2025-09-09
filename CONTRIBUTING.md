@@ -11,7 +11,7 @@ Thank you for your interest in contributing to Publish or Perish! This document 
 1. **Fork the repository** on GitHub
 2. **Clone your fork** locally:
    ```bash
-   git clone https://github.com/your-username/publish-or-perish.git
+   git clone https://github.com/mirainthehub/publish-or-perish.git
    cd publish-or-perish
    ```
 3. **Install dependencies**:
@@ -109,7 +109,7 @@ When reporting bugs or requesting features:
 1. **Fork 仓库** 在 GitHub 上
 2. **克隆您的 fork** 到本地：
    ```bash
-   git clone https://github.com/your-username/publish-or-perish.git
+   git clone https://github.com/mirainthehub/publish-or-perish.git
    cd publish-or-perish
    ```
 3. **安装依赖**：
